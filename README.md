@@ -9,17 +9,17 @@
 
 ---
 
-<div>
+<div style="display: flex;">
 <a href="github.com/Storti-Scatambuli">
-<img width="62%" src="https://github-readme-stats.vercel.app/api?username=Storti-Scatambuli&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&hide_rank=true&theme=github_dark">
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Storti-Scatambuli&layout=compact&theme=github_dark">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Storti-Scatambuli&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&hide_rank=true&theme=github_dark">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Storti-Scatambuli&layout=compact&theme=github_dark">
 </a>
 </div>
 
 ---
 ### My stacks:
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; justify-content: space-between;">
 <img width="40px" align="center" alt="Storti-Scatambuli-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="40px" align="center" alt="Storti-Scatambuli-Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img width="40px" align="center" alt="Storti-Scatambuli-Pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
