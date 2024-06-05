@@ -1,11 +1,16 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-## Hi, I'm João Guilherme Storti Scatambuli 👨‍💻
+### Hi, I'm João Guilherme Storti Scatambuli 👨‍💻
 ### and I am a Data Scientist focused on Machine Leaning and Neural Networks 🤖
 
+---
+
+<div width="100%" style="display: flex;">
+<h4>Contacts:</h4> 
 <a href="https://www.linkedin.com/in/jstorti-scatambuli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/jstorti"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="mailto:jgscatambuli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 ---
 
