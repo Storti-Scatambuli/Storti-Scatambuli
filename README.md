@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ### Hi, My name is João Guilherme Storti Scatambuli 👨‍💻
-### and I am a Data Scientist focused on Machine Leaning and Neural Networks 🤖
+### and I am a Data Science, Machine Learning and Neural Networks student 🤖
 
 ---
 
