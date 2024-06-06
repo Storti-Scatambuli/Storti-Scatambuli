@@ -27,9 +27,9 @@
 <div style="display: flex; justify-content: space-between;">
 <img width="40px" align="center" alt="Storti-Scatambuli-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="40px" align="center" alt="Storti-Scatambuli-Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img width="40px" align="center" alt="Storti-Scatambuli-Pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img width="40px" align="center" alt="Storti-Scatambuli-Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img width="40px" align="center" alt="Storti-Scatambuli-Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img width="40px" align="center" alt="Storti-Scatambuli-Pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img width="40px" align="center" alt="Storti-Scatambuli-Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 </div>
 
